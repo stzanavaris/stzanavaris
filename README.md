@@ -50,4 +50,4 @@ A PHP and MySQL web application for managing courses, assignments, submissions, 
 
 ---
 
-*Open to beginner-friendly freelance projects, collaborations, and opportunities to gain practical experience.*
+*Available for small, one-time freelance projects and short-term collaborations alongside my studies.*
